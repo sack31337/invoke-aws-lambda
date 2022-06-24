@@ -15,7 +15,7 @@
 
 # Invoke AWS Lambda
 
-This action allows you to synchronously invoke a Lambda function and get the response (if desired).
+This action allows you to synchronously invoke a Lambda function and get the response (if desired)..
 
 ## Table of contents
 
